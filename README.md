@@ -1,5 +1,7 @@
-Sovereign: King Philippe (2013)
+# Belgium
 ![Branching](Flag_of_Belgium_(civil).svg)
+Sovereign: King Philippe (2013)
+
 Prime Minister: Charles Michel (2014)
 
 Land area: 11,672 sq mi (30,230 sq km); total area: 11,787 sq mi (30,528 sq km)
